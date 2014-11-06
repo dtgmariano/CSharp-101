@@ -1,0 +1,18 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Xps.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Xps.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Wpf.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\obj\Debug\OxyPlot.Xps.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\obj\Debug\OxyPlot.Xps.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\obj\Debug\OxyPlot.Xps.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Xps.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Xps.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\bin\Debug\OxyPlot.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Wpf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\bin\Debug\OxyPlot.Wpf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\bin\Debug\OxyPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\obj\Debug\OxyPlot.Xps.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\obj\Debug\OxyPlot.Xps.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Xps\obj\Debug\OxyPlot.Xps.pdb

@@ -1,0 +1,28 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.Wpf.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf_MarkupCompile.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf_MarkupCompile.lref
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\Themes\Generic.baml
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.g.resources
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.Properties.Resources.resources
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.csproj.GenerateResource.Cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.Wpf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.Wpf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\bin\Debug\OxyPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf_MarkupCompile.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf_MarkupCompile.lref
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\Themes\Generic.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.g.resources
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.Properties.Resources.resources
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.csproj.GenerateResource.Cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Wpf\obj\Debug\OxyPlot.Wpf.pdb

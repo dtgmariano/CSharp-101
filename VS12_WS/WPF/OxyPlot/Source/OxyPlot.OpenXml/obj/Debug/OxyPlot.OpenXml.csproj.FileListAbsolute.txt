@@ -1,0 +1,22 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.OpenXml.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.OpenXml.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.Wpf.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\obj\Debug\OxyPlot.OpenXml.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\obj\Debug\OxyPlot.OpenXml.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.OpenXml\obj\Debug\OxyPlot.OpenXml.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.OpenXml.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.OpenXml.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.Wpf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.Wpf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\OxyPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\obj\Debug\OxyPlot.OpenXml.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\obj\Debug\OxyPlot.OpenXml.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.OpenXml\obj\Debug\OxyPlot.OpenXml.pdb

@@ -1,0 +1,5 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot\obj\Debug\OxyPlot.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot\obj\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot\obj\Debug\OxyPlot.pdb

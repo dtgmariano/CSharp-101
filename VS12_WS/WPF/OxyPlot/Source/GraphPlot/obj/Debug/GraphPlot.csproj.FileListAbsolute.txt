@@ -1,0 +1,32 @@
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\bin\Debug\GraphPlot.exe.config
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\bin\Debug\GraphPlot.exe
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\bin\Debug\GraphPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\bin\Debug\OxyPlot.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\App.g.cs
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot_MarkupCompile.cache
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot_MarkupCompile.lref
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot.g.resources
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot.Properties.Resources.resources
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot.csproj.GenerateResource.Cache
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot.exe
+C:\Workspace\OxyPlot Repository\Source\GraphPlot\obj\Debug\GraphPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\bin\Debug\GraphPlot.exe.config
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot.exe
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\bin\Debug\GraphPlot.exe
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\bin\Debug\GraphPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\App.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot_MarkupCompile.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot_MarkupCompile.lref
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot.g.resources
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot.Properties.Resources.resources
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\GraphPlot\obj\Debug\GraphPlot.csproj.GenerateResource.Cache

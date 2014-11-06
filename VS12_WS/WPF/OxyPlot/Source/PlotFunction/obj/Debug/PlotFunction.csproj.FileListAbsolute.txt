@@ -1,0 +1,9 @@
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\bin\Debug\PlotFunction.exe.config
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\PlotFunction.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\App.g.cs
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\PlotFunction_MarkupCompile.cache
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\PlotFunction.g.resources
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\PlotFunction.Properties.Resources.resources
+C:\Workspace\OxyPlot Repository\Source\PlotFunction\obj\Debug\PlotFunction.csproj.GenerateResource.Cache

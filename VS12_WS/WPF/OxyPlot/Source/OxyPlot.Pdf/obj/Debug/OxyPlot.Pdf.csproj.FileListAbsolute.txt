@@ -1,0 +1,22 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.Pdf.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\MigraDoc.Rendering.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\PdfSharp.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\OxyPlot.Pdf.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\OxyPlot.Pdf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.Pdf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.Pdf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\MigraDoc.Rendering.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\PdfSharp.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\bin\Debug\OxyPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\obj\Debug\OxyPlot.Pdf.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\obj\Debug\OxyPlot.Pdf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\OxyPlot.Pdf\obj\Debug\OxyPlot.Pdf.pdb

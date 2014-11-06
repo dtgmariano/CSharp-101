@@ -1,0 +1,8 @@
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\WpfApplication OxyPlot 2.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\App.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\WpfApplication OxyPlot 2_MarkupCompile.cache
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\WpfApplication OxyPlot 2.g.resources
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\WpfApplication_OxyPlot_2.Properties.Resources.resources
+C:\Dropbox\Workspace\Visual Studio 2012\WPF\WpfApplication OxyPlot 2\WpfApplication OxyPlot 2\obj\Debug\WpfApplication OxyPlot 2.csproj.GenerateResource.Cache

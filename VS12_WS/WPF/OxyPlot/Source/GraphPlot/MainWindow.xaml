@@ -1,0 +1,13 @@
+﻿<Window x:Class="GraphPlot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:oxy="clr-namespace:OxyPlot.Wpf;assembly=OxyPlot.Wpf"
+        xmlns:graphPlot="clr-namespace:GraphPlot"
+        Title="OxyPlot GraphPlot" Height="480" Width="640">
+    <Window.DataContext>
+        <graphPlot:MainViewModel />
+    </Window.DataContext>
+    <Grid>
+        <oxy:Plot Model="{Binding Model}"/>
+    </Grid>
+</Window>

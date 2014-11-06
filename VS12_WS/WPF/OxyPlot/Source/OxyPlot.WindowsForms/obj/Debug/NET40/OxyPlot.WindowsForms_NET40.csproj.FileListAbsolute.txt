@@ -1,0 +1,7 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\bin\Debug\NET40\OxyPlot.WindowsForms.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\bin\Debug\NET40\OxyPlot.WindowsForms.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\bin\Debug\NET40\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\bin\Debug\NET40\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\obj\Debug\NET40\OxyPlot.WindowsForms_NET40.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\obj\Debug\NET40\OxyPlot.WindowsForms.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.WindowsForms\obj\Debug\NET40\OxyPlot.WindowsForms.pdb

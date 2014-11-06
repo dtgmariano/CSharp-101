@@ -1,0 +1,8 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\Bin\Debug\SL5\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\Bin\Debug\SL5\OxyPlot.Pdf.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\Bin\Debug\SL5\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\Bin\Debug\SL5\silverPDF.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\Bin\Debug\SL5\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\SL5\OxyPlot.Pdf_SL5.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\SL5\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\SL5\OxyPlot.Pdf.pdb

@@ -1,0 +1,14 @@
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\ExampleBrowser.exe
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\ExampleBrowser.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\ExampleLibrary.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\bin\Debug\ExampleLibrary.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\obj\Debug\ExampleBrowser.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\obj\Debug\ExampleBrowser.MainForm.resources
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\obj\Debug\ExampleBrowser.Properties.Resources.resources
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\obj\Debug\ExampleBrowser.csproj.GenerateResource.Cache
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\obj\Debug\ExampleBrowser.exe
+C:\Workspace\OxyPlot Repository\Source\Examples\WindowsForms\ExampleBrowser\obj\Debug\ExampleBrowser.pdb

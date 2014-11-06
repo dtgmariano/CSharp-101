@@ -1,0 +1,11 @@
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\OxyPlot.Pdf.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\MigraDoc.DocumentObjectModel.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\MigraDoc.Rendering.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\MigraDoc.RtfRendering.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\PdfSharp.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\bin\Debug\NET40\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\NET40\OxyPlot.Pdf_NET40.csprojResolveAssemblyReference.cache
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\NET40\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\OxyPlot.Pdf\obj\Debug\NET40\OxyPlot.Pdf.pdb

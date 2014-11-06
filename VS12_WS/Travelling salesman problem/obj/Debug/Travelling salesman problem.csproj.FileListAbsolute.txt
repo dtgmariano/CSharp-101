@@ -1,0 +1,11 @@
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\bin\Debug\Travelling salesman problem.exe.config
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\bin\Debug\Travelling salesman problem.exe
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\bin\Debug\Travelling salesman problem.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\Travelling salesman problem.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\Travelling_salesman_problem.Properties.Resources.resources
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\GA.TestView.resources
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\Travelling salesman problem.csproj.GenerateResource.Cache
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\Travelling salesman problem.exe
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\Travelling salesman problem.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\obj\Debug\GA.MapView.resources
+C:\Dropbox\Workspace\Visual Studio 2012\Travelling salesman problem\bin\Debug\ZedGraph.dll

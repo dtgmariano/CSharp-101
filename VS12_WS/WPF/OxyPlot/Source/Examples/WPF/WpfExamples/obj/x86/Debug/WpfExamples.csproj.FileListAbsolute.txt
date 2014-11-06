@@ -1,0 +1,193 @@
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\Examples\CsvDemo\Data\GlobalTemperatureAnomaly.csv
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\Examples\CsvDemo\Data\RiverFlow.csv
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\Examples\CsvDemo\Data\WorldPopulation.csv
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\WpfExamples.exe.config
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\WpfExamples.exe
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\WpfExamples.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.OpenXml.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Pdf.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Xps.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.Wpf.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PdfSharp.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\MigraDoc.Rendering.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.OpenXml.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Pdf.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Wpf.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Xps.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.xml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.Wpf.pdb
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.Wpf.xml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AnnotationDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AreaDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AxesDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BarSeriesDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BindingDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ContourDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColumnSeriesDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CoupledAxesDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CsvDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CustomTrackerDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\DateTimeDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\HistogramDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\LegendsDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PieDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RealtimeDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window1.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window2.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window3.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window4.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ScatterDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\UserControl1.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AnnotationDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AreaDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AxesDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BarSeriesDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BindingDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColorBindingDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ContourDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColumnSeriesDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\TaskDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CoupledAxesDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CsvDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CustomTrackerDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\DateTimeDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\HistogramDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\LegendsDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PieDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PolarDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RealtimeDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window1.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window2.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window3.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window4.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ScatterDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow3.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow2.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\UserControl1.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\MainWindow.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\App.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples_Content.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples_MarkupCompile.cache
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples_MarkupCompile.lref
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColorBindingDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\TaskDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PolarDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow3.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow2.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\MainWindow.baml
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.g.resources
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.Properties.Resources.resources
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.csproj.GenerateResource.Cache
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.exe
+C:\Workspace\OxyPlot Repository\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\WpfExamples.exe.config
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.exe
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\Examples\CsvDemo\Data\GlobalTemperatureAnomaly.csv
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\Examples\CsvDemo\Data\RiverFlow.csv
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\Examples\CsvDemo\Data\WorldPopulation.csv
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\WpfExamples.exe
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\WpfExamples.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.OpenXml.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Pdf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Wpf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Xps.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.Wpf.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PdfSharp.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\MigraDoc.Rendering.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.OpenXml.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Pdf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Wpf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.Xps.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\OxyPlot.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.xml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.Wpf.pdb
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\PropertyTools.Wpf.xml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AnnotationDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AreaDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AxesDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BarSeriesDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BindingDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ContourDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColumnSeriesDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CoupledAxesDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CsvDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CustomTrackerDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\DateTimeDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\HistogramDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\LegendsDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PieDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RealtimeDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window1.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window2.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window3.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window4.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ScatterDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\UserControl1.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AnnotationDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AreaDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\AxesDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BarSeriesDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\BindingDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColorBindingDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ContourDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColumnSeriesDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\TaskDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CoupledAxesDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CsvDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\CustomTrackerDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\DateTimeDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\HistogramDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\LegendsDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PieDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PolarDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RealtimeDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window1.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window2.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window3.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\RefreshDemo\Window4.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ScatterDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow3.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow2.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\UserControl1.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\MainWindow.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\App.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples_Content.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples_MarkupCompile.cache
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples_MarkupCompile.lref
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\ColorBindingDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\TaskDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\PolarDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow3.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow2.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\Examples\UserControlDemo\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\MainWindow.baml
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.g.resources
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.Properties.Resources.resources
+C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\Examples\WPF\WpfExamples\obj\x86\Debug\WpfExamples.csproj.GenerateResource.Cache
