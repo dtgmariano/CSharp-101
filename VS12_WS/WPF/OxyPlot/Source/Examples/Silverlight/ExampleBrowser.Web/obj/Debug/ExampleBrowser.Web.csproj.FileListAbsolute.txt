@@ -1,5 +1,0 @@
-C:\Workspace\OxyPlot Repository\Source\Examples\Silverlight\ExampleBrowser.Web\bin\ExampleBrowser.Web.dll
-C:\Workspace\OxyPlot Repository\Source\Examples\Silverlight\ExampleBrowser.Web\bin\ExampleBrowser.Web.pdb
-C:\Workspace\OxyPlot Repository\Source\Examples\Silverlight\ExampleBrowser.Web\obj\Debug\ExampleBrowser.Web.csprojResolveAssemblyReference.cache
-C:\Workspace\OxyPlot Repository\Source\Examples\Silverlight\ExampleBrowser.Web\obj\Debug\ExampleBrowser.Web.dll
-C:\Workspace\OxyPlot Repository\Source\Examples\Silverlight\ExampleBrowser.Web\obj\Debug\ExampleBrowser.Web.pdb

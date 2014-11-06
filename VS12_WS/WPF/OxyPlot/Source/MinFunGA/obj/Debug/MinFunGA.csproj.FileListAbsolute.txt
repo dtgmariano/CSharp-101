@@ -1,9 +1,0 @@
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\bin\Debug\MinFunGA.exe.config
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MinFunGA.csprojResolveAssemblyReference.cache
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MainWindow.baml
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MainWindow.g.cs
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\App.g.cs
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MinFunGA_MarkupCompile.cache
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MinFunGA.g.resources
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MinFunGA.Properties.Resources.resources
-C:\Dropbox\Workspace\Visual Studio 2012\OxyPlot\Source\MinFunGA\obj\Debug\MinFunGA.csproj.GenerateResource.Cache

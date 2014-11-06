@@ -1,2 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2012\Projects\OxyPlot Example1\OxyPlot Example1\bin\Debug\OxyPlot Example1.exe.config
-C:\Dropbox\Workspace\Visual Studio 2012\WPF\OxyPlot Example1\OxyPlot Example1\bin\Debug\OxyPlot Example1.exe.config

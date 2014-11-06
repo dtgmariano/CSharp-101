@@ -1,7 +1,0 @@
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\bin\PCL\Debug\ExampleLibrary.dll
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\bin\PCL\Debug\ExampleLibrary.pdb
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\bin\PCL\Debug\OxyPlot.dll
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\bin\PCL\Debug\OxyPlot.pdb
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\obj\Debug\ExampleLibrary.csprojResolveAssemblyReference.cache
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\obj\Debug\ExampleLibrary.dll
-C:\Workspace\OxyPlot Repository\Source\Examples\ExampleLibrary\obj\Debug\ExampleLibrary.pdb

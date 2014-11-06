@@ -1,9 +1,0 @@
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\NET40\OxyPlot.Xps.dll
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\NET40\OxyPlot.Xps.pdb
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\NET40\OxyPlot.dll
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\NET40\OxyPlot.Wpf.dll
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\NET40\OxyPlot.Wpf.pdb
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\bin\Debug\NET40\OxyPlot.pdb
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\obj\Debug\NET40\OxyPlot.Xps_NET40.csprojResolveAssemblyReference.cache
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\obj\Debug\NET40\OxyPlot.Xps.dll
-C:\Workspace\OxyPlot Repository\Source\OxyPlot.Xps\obj\Debug\NET40\OxyPlot.Xps.pdb
