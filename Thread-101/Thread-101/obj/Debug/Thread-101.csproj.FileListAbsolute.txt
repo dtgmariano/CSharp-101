@@ -6,3 +6,5 @@ C:\Users\Daniel\Documents\GitHub\CSharp-101\Thread-101\Thread-101\obj\Debug\Thre
 C:\Users\Daniel\Documents\GitHub\CSharp-101\Thread-101\Thread-101\obj\Debug\Thread-101.csproj.GenerateResource.Cache
 C:\Users\Daniel\Documents\GitHub\CSharp-101\Thread-101\Thread-101\obj\Debug\Thread-101.exe
 C:\Users\Daniel\Documents\GitHub\CSharp-101\Thread-101\Thread-101\obj\Debug\Thread-101.pdb
+C:\Users\Daniel\GitHub\CSharp-101\Thread-101\Thread-101\obj\Debug\Thread-101.exe
+C:\Users\Daniel\GitHub\CSharp-101\Thread-101\Thread-101\obj\Debug\Thread-101.pdb
